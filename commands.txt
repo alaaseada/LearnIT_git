@@ -1,0 +1,11 @@
+git init
+git add .
+git commit -m "comment about the commit"
+=================
+git log 
+git commit --amend 
+git commit --amend --no-edit
+==================
+git restore --staged <filename>
+=============
+git rm -r --cached <filename>

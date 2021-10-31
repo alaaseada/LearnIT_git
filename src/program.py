@@ -2,7 +2,7 @@ import datetime
 
 
 today = datetime.date.today()
-print("Today is: ", today)
+print("Date: ", today)
 
 
 
