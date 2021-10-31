@@ -14,3 +14,14 @@ git remote -v
 git remote add origin <URL of remote repository>
 git push origin -u master
 git clone <repo URL>
+====================
+To connect using SSH
+1. use GIT GUI -> Help -> Show SSH Key -> Generate Key
+-> Copy the public Key
+2. in GitHub navigate to profile -> settings -> SSH keys and GPK
+-> Add new key -> Paste the public key
+3. In the repo click Clone -> SSH -> Copy the URL
+3. In GIT Bash 
+git remote set-url <Paste the SSH URL>
+git remote -v 
+
