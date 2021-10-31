@@ -12,3 +12,5 @@ git rm -r --cached <filename>
 =============
 git remote -v
 git remote add origin <URL of remote repository>
+git push origin -u master
+git clone <repo URL>
