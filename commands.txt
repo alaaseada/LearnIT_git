@@ -9,3 +9,6 @@ git commit --amend --no-edit
 git restore --staged <filename>
 =============
 git rm -r --cached <filename>
+=============
+git remote -v
+git remote add origin <URL of remote repository>
