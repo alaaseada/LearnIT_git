@@ -24,4 +24,19 @@ To connect using SSH
 3. In GIT Bash 
 git remote set-url <Paste the SSH URL>
 git remote -v 
+======================
+git branch <branch name>
+git branch
+git branch -r 
+git branch -a
+git branch -d|-D <branch name>
+git switch <branch name>
+===========================
+git checkout -b <branch name>
 
+============================
+git push origin -u <branch name>
+git push origin --delete <branch name>
+=============================
+git switch -c <branch name>
+git switch <branch name | master>
