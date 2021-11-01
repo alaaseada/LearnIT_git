@@ -40,3 +40,7 @@ git push origin --delete <branch name>
 =============================
 git switch -c <branch name>
 git switch <branch name | master>
+================================
+git fetch
+git merge
+git pull
