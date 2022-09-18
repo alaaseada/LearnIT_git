@@ -10,4 +10,7 @@ p{
 	text-align: center;
 	color: red;
 }
-div {margin: 0 auto;}
+div{
+	margin: 0 auto;
+
+}
